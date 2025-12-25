@@ -1,16 +1,16 @@
 // Eventos solares históricos verificados
-        const historicalEvents = [
-            { date: '1859-09-01', name: 'Carrington Event', magnitude: 'X45+', kp: 9 },
-            { date: '1989-03-13', name: 'Quebec Blackout', magnitude: 'X15', kp: 9 },
-            { date: '2000-07-14', name: 'Bastille Day', magnitude: 'X5.7', kp: 9 },
-            { date: '2001-04-02', name: 'April 2001', magnitude: 'X20', kp: 8 },
-            { date: '2003-10-28', name: 'Halloween Storm', magnitude: 'X17.2', kp: 9 },
-            { date: '2003-11-04', name: 'Halloween 2', magnitude: 'X28', kp: 9 },
-            { date: '2005-01-15', name: 'January 2005', magnitude: 'X8.7', kp: 8 },
-            { date: '2006-12-05', name: 'December 2006', magnitude: 'X6.5', kp: 8 },
-            { date: '2011-08-09', name: 'August 2011', magnitude: 'X6.9', kp: 8 },
-            { date: '2012-03-07', name: 'March 2012', magnitude: 'X5.4', kp: 8 },
-            { date: '2012-07-12', name: 'July 2012', magnitude: 'X1.4', kp: 6 },
-            { date: '2017-09-06', name: 'September 2017', magnitude: 'X9.3', kp: 8 },
-            { date: '2024-05-10', name: 'May 2024', magnitude: 'X5.8', kp: 9 }
-        ];
+   const historicalEvents = [
+      { date: '1859-09-01', name: 'Carrington Event', magnitude: 'X45+', kp: 9 },
+      { date: '1989-03-13', name: 'Quebec Blackout', magnitude: 'X15', kp: 9 },
+      { date: '2000-07-14', name: 'Bastille Day', magnitude: 'X5.7', kp: 9 },
+      { date: '2001-04-02', name: 'April 2001', magnitude: 'X20', kp: 8 },
+      { date: '2003-10-28', name: 'Halloween Storm', magnitude: 'X17.2', kp: 9 },
+      { date: '2003-11-04', name: 'Halloween 2', magnitude: 'X28', kp: 9 },
+      { date: '2005-01-15', name: 'January 2005', magnitude: 'X8.7', kp: 8 },
+      { date: '2006-12-05', name: 'December 2006', magnitude: 'X6.5', kp: 8 },
+      { date: '2011-08-09', name: 'August 2011', magnitude: 'X6.9', kp: 8 },
+      { date: '2012-03-07', name: 'March 2012', magnitude: 'X5.4', kp: 8 },
+      { date: '2012-07-12', name: 'July 2012', magnitude: 'X1.4', kp: 6 },
+      { date: '2017-09-06', name: 'September 2017', magnitude: 'X9.3', kp: 8 },
+      { date: '2024-05-10', name: 'May 2024', magnitude: 'X5.8', kp: 9 }
+];
