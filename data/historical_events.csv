@@ -1,4 +1,3 @@
-// Eventos solares históricos verificados
 const historicalEvents = [
 { date: '1859-09-01', name: 'Carrington Event', magnitude: 'X45+', kp: 9 },
 { date: '1989-03-13', name: 'Quebec Blackout', magnitude: 'X15', kp: 9 },
